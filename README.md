@@ -4,7 +4,7 @@ Open Source Prototipo Sistema básico de supervivencia de Vida y hambre hecho co
 
 Se necesita el controlador básico de Standart Asset para que funcione correctamente.
 
-Las físicas del personajes tiene errores en la collision y se debe hacer el controlador, 
+Las físicas del personajes tiene errores en la collision y se debe hacer el controlador 
 de movimiento de cero para reparar el error.
 
 Atacan con Tecla M a los Enemigos con el Hacha.
